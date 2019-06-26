@@ -1,0 +1,3 @@
+Name, Author, Downalod URL, Attribution URL, License type
+background.jpg, prettysleepy1, https://pixabay.com/photos/alien-backdrop-background-3233076/, n/a, Pixabay License
+background.mp3, ZapSplat, https://www.zapsplat.com/sound-effect-category/loops/, n/a, Standard License

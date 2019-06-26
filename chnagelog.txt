@@ -1,0 +1,96 @@
+--
+-- ────────────────────────────────────────────────────── I ──────────
+--   :::::: W E E K   1 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Decided the topic for the project.
+    2) Started researching about existing projects in world which can be compared to my project.
+    3) created project files, to start development from next week.
+
+--
+-- ────────────────────────────────────────────────────── II ──────────
+--   :::::: W E E K   2 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Inserted background image for the game and designed menu for the game.
+    2) Created data/index.js file which contains structure of the data for the game.
+    3) Started developing reusable components in the js/elements.js file for the game.
+
+--
+-- ────────────────────────────────────────────────────── III ──────────
+--   :::::: W E E K   3 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Created displayMenu function to display game menu using JavaScript.
+    2) Created Learn How To Play pages to teach user how to play the game.
+    3) Created displaySudokuBoard function to display the game board to the player.
+
+--
+-- ────────────────────────────────────────────────────── IV ──────────
+--   :::::: W E E K   4 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Started developing main logic for the game by this week.
+    2) Developed function which can generate and manipulate data in to the window.data variable.
+    3) Created generateRandomValue function which will generate random value between 1 to 9 for the game.
+
+--
+-- ────────────────────────────────────────────────────── V ──────────
+--   :::::: W E E K   5 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Created function to add background sound to the game and tested it.
+    2) Created displayGameOptions function which will display all the option while player start the game.
+    3) Created getRow, getColumn and other functions which will get the data from the window.data variable.
+
+--
+-- ────────────────────────────────────────────────────── VI ──────────
+--   :::::: W E E K   6 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Created endGame function which s main function to develope the final 9x9 metrics.
+    2) Created hover effect for the game board and added new fonts to make it look good.
+
+--
+-- ────────────────────────────────────────────────────── VII ──────────
+--   :::::: W E E K   7 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Modified some functions in to functions.js to handle back tracing for the game.
+    2) Connected backend function with  the UI by modifying UI functions in elements.js
+--
+-- ────────────────────────────────────────────────────── VIII ──────────
+--   :::::: W E E K   8 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Fixed colors according to the background.
+    2) Created functions to get the inputs from the user.
+
+--
+-- ────────────────────────────────────────────────────── IX ──────────
+--   :::::: W E E K   9 : : :  :   :    :     :        :          :
+-- ────────────────────────────────────────────────────────────────
+--
+
+    1) Created Marking Justification for the project.
+    2) Tested and fixed few bugs for the game.
+
+--
+-- ──────────────────────────────────────────────────────── X ──────────
+--   :::::: W E E K   1 0 : : :  :   :    :     :        :          :
+-- ──────────────────────────────────────────────────────────────────
+--
+
+    1) Updated readme.txt file.
+    2) Updated licenses.txt file.
+    3) Created Video for the Game.
+
+
